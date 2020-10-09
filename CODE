@@ -1,0 +1,24 @@
+
+
+   
+
+  
+
+
+
+
+
+
+  <footer class="footer">
+    <div class="footer-raw">
+      <div class="footer-copyright">
+        <div class="footer-title">Beach Surfing</div>
+        <div class="footer-copy">Copyright © 2018 All Rights Reserved.</div>
+      </div>
+    
+    <div class="footer-designby">
+      <div class="footer-design">Designed by <strong>Rikon Rahman</strong></div>
+    </div>
+  </div>
+  <!-- footer raw -->
+  </footer>
